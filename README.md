@@ -23,6 +23,23 @@ Include some interesting code and functions here
 
 ### Results / Findings & Insights 
 
+The analysis results are summarized as follows: 
+1. 
+2. 
+3. 
+
+### Recommendations / Project Improvements
+
+Based on the analsysis, I recommend the following for improving the prediction model for future use:
+
+### Limitations
+
+### References 
+
+Kaggle for my Data Set 
+
+
+
 
 
 
